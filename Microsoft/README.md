@@ -1,0 +1,1 @@
+Please navigate to the Grover Hackathon [webpage](http://workshops.devcongalaxy.io/#/workshops/grover?repo=vivienlonde%2Fmy-workshops%2Fmaster%2Fgrover&step=3&WT.mc_id=javascript-0000-yolasors&ocid=AID3030268) 😊 ! 
