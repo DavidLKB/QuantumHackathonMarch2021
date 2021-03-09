@@ -8,12 +8,12 @@ Dear participants,
 Welcome to the first Quantum Hackathon by QuantiX at Quantonation in Paris!
 The event is supported by Pasqal, Atos, CQC, Microsoft and IBM, who kindly provided the quantum hardware and software platforms and also formulated the challenges for the Hackathon.
 
-#Github
+## Github
 This GitHub contains the repositories with the computational challenges and introductory tutorials from each provider respectively on how to access and use the platforms.
 
-#Slack
+## Slack
 To ensure the efficient communication we also provide you with the access to a Hackathon’s Slack where you could find permanent technical support from providers and organisers. 
-#Organization
+## Organization
 The event take place on March 13-14 at Quantonation in Paris.
 
 In order to respect the COVID-19 related restrictions, we ask you to bring a valid test on the first day of competition. We will distribute the masks and hydroalcoholic gels during both days.
@@ -42,7 +42,7 @@ During all the event we will provide you with drinks and snacks. Please, communi
 
 
 
-#Prize
+## Prize
 Thanks to the support of Pasqal, Atos, CQC, the winning team will receive a 1500€ check.
 The second best will be granted a 500€ check.
 All the participants will have a unique opportunity to exchange with the providers on the career possibilities and potential to collaborate.
