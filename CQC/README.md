@@ -190,6 +190,6 @@ Voici en particulier une sélection que je recommande en continuation de cette i
 Vous êtes maintenant prêts pour les _vrais_ défis.
 Vous trouverez deux notebooks dans ce dossier que vous pouvez aborder avec tket:
  1. "Build your own Quantum Architecture" [[build_your_arch.ipynb](build_your_arch.ipynb)]
- 2. Richie put your notebook name here
+ 2. "Build your own QNLP model" [[https://discopy.readthedocs.io/en/main/notebooks/qnlp-tutorial.html](https://discopy.readthedocs.io/en/main/notebooks/qnlp-tutorial.html)]
 
 Bonne chance! N'hésitez pas à nous contacter pour toute question :wink:
