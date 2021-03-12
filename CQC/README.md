@@ -189,7 +189,7 @@ Voici en particulier une sélection que je recommande en continuation de cette i
 ## Vos tâches
 Vous êtes maintenant prêts pour les _vrais_ défis.
 Vous trouverez deux notebooks dans ce dossier que vous pouvez aborder avec tket:
- 1. "Build your own Quantum Architecture" [[build_your_arch.ipynb](build_your_arch.ipybn)]
+ 1. "Build your own Quantum Architecture" [[build_your_arch.ipynb](build_your_arch.ipynb)]
  2. Richie put your notebook name here
 
 Bonne chance! N'hésitez pas à nous contacter pour toute question :wink:
