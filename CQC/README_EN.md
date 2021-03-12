@@ -186,7 +186,7 @@ as a continuation of this introduction:
 ## Your tasks
 You are now ready for the _real_ challenge!
 You'll find two notebooks in this directory: they are the task ready to be tackled with tket:
- 1. "Build your own Quantum Architecture" [build_your_arch.ipynb](build_your_arch.ipybn)
+ 1. "Build your own Quantum Architecture" [[build_your_arch.ipynb](build_your_arch.ipybn)]
  2. Richie put your notebook name here
 
 Good luck! Don't hesitate to reach out to us if you have any questions :wink:
