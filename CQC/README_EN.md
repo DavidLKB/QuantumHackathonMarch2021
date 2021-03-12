@@ -182,3 +182,11 @@ as a continuation of this introduction:
 - [Run a circuit on the backends](https://github.com/CQCL/pytket/blob/master/examples/backends_example.ipynb)
 - [Circuit Optimization](https://github.com/CQCL/pytket/blob/master/examples/compilation_example.ipynb)
 - [Advanced techniques for creating circuits](https://github.com/CQCL/pytket/blob/master/examples/circuit_generation_example.ipynb)
+
+## Your tasks
+You are now ready for the _real_ challenge!
+You'll find two notebooks in this directory: they are the task ready to be tackled with tket:
+ 1. "Build your own Quantum Architecture" [build_your_arch.ipynb](build_your_arch.ipybn)
+ 2. Richie put your notebook name here
+
+Good luck! Don't hesitate to reach out to us if you have any questions :wink:

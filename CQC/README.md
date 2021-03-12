@@ -185,3 +185,11 @@ Voici en particulier une sélection que je recommande en continuation de cette i
 - [Exécuter un circuit sur les backends](https://github.com/CQCL/pytket/blob/master/examples/backends_example.ipynb)
 - [Optimisation de circuit](https://github.com/CQCL/pytket/blob/master/examples/compilation_example.ipynb)
 - [Techniques avancées pour la création de circuits](https://github.com/CQCL/pytket/blob/master/examples/circuit_generation_example.ipynb)
+
+## Vos tâches
+Vous êtes maintenant prêts pour les _vrais_ défis.
+Vous trouverez deux notebooks dans ce dossier que vous pouvez aborder avec tket:
+ 1. "Build your own Quantum Architecture" [build_your_arch.ipynb](build_your_arch.ipybn)
+ 2. Richie put your notebook name here
+
+Bonne chance! N'hésitez pas à nous contacter pour toute question :wink:
